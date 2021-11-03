@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Data-Analytics-Minor-Project/static/css/main.afd7172b.chunk.css",
+    "main.js": "/Data-Analytics-Minor-Project/static/js/main.3ae39f80.chunk.js",
+    "main.js.map": "/Data-Analytics-Minor-Project/static/js/main.3ae39f80.chunk.js.map",
+    "runtime-main.js": "/Data-Analytics-Minor-Project/static/js/runtime-main.938c1c69.js",
+    "runtime-main.js.map": "/Data-Analytics-Minor-Project/static/js/runtime-main.938c1c69.js.map",
+    "static/js/2.92da0a87.chunk.js": "/Data-Analytics-Minor-Project/static/js/2.92da0a87.chunk.js",
+    "static/js/2.92da0a87.chunk.js.map": "/Data-Analytics-Minor-Project/static/js/2.92da0a87.chunk.js.map",
+    "index.html": "/Data-Analytics-Minor-Project/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/Data-Analytics-Minor-Project/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.92da0a87.chunk.js.LICENSE.txt": "/Data-Analytics-Minor-Project/static/js/2.92da0a87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.938c1c69.js",
+    "static/js/2.92da0a87.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.3ae39f80.chunk.js"
+  ]
+}
