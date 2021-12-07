@@ -11,6 +11,7 @@ jobs:
     env:
       REACT_APP_GOOGLE_API_KEY: ${{ secrets.REACT_APP_GOOGLE_API_KEY }}
       REACT_APP_GOOGLE_SHEETS_ID: ${{ secrets.REACT_APP_GOOGLE_SHEETS_ID }}
+      run: echo "$REACT_APP_GOOGLE_API_KEY"
 
     strategy:
       matrix:

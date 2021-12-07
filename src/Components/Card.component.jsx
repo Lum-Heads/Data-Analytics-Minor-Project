@@ -10,7 +10,6 @@ function Card() {
     apiKey: process.env.REACT_APP_GOOGLE_API_KEY,
     sheetId: process.env.REACT_APP_GOOGLE_SHEETS_ID,
   });
-  console.log(process.env.REACT_APP_GOGGLE_API_KEY);
 
   if (loading) {
     return <div>Loading...</div>;
